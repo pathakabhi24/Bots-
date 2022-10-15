@@ -184,3 +184,6 @@ Table of Contents
 ## Testing
 * [ChatbotTest](http://chatbottest.com/) - Chatbottest is an open source guide that helps you identify chatbot's design issues under 7 different categories.
 * [BotTesting](http://bottesting.co/) - Test your bot! Send your email and bot link to us, we’ll examine your bot’s performance and usability
+
+
+Every bot which is present on Internet have added in this repo
